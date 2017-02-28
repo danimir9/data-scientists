@@ -1,2 +1,3 @@
 # data-scientists
-Repositorio para la especialización Data Scientists de Coursera
+Repositorio para el curso Data Scientists de Coursera
+Aunque es una especialización
